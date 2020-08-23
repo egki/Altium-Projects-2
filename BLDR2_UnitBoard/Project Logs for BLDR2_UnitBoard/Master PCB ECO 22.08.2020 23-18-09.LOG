@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC6_1 Pin=F1-1
+Removed Pin From Net: NetName=NetC6_1 Pin=F1-1
+Removed Pin From Net: NetName=LED P Pin=F1-2
+Removed Pin From Net: NetName=LED P Pin=F1-2
+Removed Member From Class: ClassName=Master Member=F1
+Added Component: Designator=F?(FUSE_LITTEL_0154)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC6_1 Pin=F?-1
+Added Pin To Net: NetName=LED P Pin=F?-2
+Added Member To Class: ClassName=Master Member=Component F? ?A

@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=+12 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=+12 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=ENABLE IN Pin=U1-2
+Removed Pin From Net: NetName=PWM IN Pin=XP1-19
+Removed Pin From Net: NetName=PWM IN Pin=XP1-20
+Removed Member From Class: ClassName=Master Member=C1
+Removed Member From Class: ClassName=Master Member=C2
+Added Component: Designator=C12(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "2.2u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Foot"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP_AE_SIZECODE_9G)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = "EXR 50 â-10 ìêô 5x11 Hitano"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cap"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP_ALUM_10.3MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = "ECAP SMD 100uF 50V 10x10.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cap"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.chipdip.ru/product0/9000565738"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP_ALUM_10.3MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = "ECAP SMD 100uF 50V 10x10.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cap"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.chipdip.ru/product0/9000565738"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "0.1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Foot"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price, $"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R24(resistor_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Foot"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=R25(resistor_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Foot"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=+12 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=+12 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=+12 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=+12 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=ENABLE IN Pin=R24-1
+Added Pin To Net: NetName=PWM IN Pin=R25-2
+Change Net Name : Old Net Name=PWM IN New Net Name=NetR25_2
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR24_2 Pin=U1-2
+Added Net: Name=NetR24_2
+Added Pin To Net: NetName=PWM IN Pin=R25-1
+Added Pin To Net: NetName=PWM IN Pin=XP1-19
+Added Pin To Net: NetName=PWM IN Pin=XP1-20
+Added Net: Name=PWM IN
+Added Member To Class: ClassName=Master Member=Component C12 0603-X7R-10 2.2 ìêô
+Added Member To Class: ClassName=Master Member=Component C13 ECAP SMD, 10 ìêÔ, 50 Â, 105°C, 20% 6.3x5.4ìì
+Added Member To Class: ClassName=Master Member=Component C14 ECAP SMD, 100 ìêÔ, 50 Â, 105°C, 20% 10x10.5ìì
+Added Member To Class: ClassName=Master Member=Component C15 ECAP SMD, 100 ìêÔ, 50 Â, 105°C, 20% 10x10.5ìì
+Added Member To Class: ClassName=Master Member=Component C16 0603-X7R-50-0.1 ìêô
+Added Member To Class: ClassName=Master Member=Component R24 0603-3 F
+Added Member To Class: ClassName=Master Member=Component R25 0603-3 F

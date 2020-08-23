@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C15 Old Footprint=CAP_ALUM_10.3MM New Footprint=CAP_ECR 5X11
+Change Component Comment : Designator=C15 Old Comment=ECAP SMD, 100 לךװ, 50 ֲ, 105°C, 20% 10x10.5לל New Comment=ECAP (Ê50-35), 100לךװ, 35ֲ, 105°C, 20%, 6.3x12לל P:2.5לל
+Change Component Designator: OldDesignator=C17 NewDesignator=C14
+Change component parameters: Designator = "C15"; Footprint = "CAP_ECR 5X11"; UniqueID = "\DSFIBAFJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cap"; Value = "100u"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"

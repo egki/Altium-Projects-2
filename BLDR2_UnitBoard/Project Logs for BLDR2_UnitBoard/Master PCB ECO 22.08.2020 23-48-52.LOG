@@ -1,0 +1,40 @@
+Added Component: Designator=TP1(OTHER_SMD_TP_1.5MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(OTHER_SMD_TP_1.5MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP3(OTHER_SMD_TP_1.5MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP4(OTHER_SMD_TP_1.5MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP5(OTHER_SMD_TP_1.5MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP6(OTHER_SMD_TP_1.5MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP7(OTHER_SMD_TP_1.5MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP8(OTHER_SMD_TP_1.5MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP9(OTHER_SMD_TP_1.5MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP10(OTHER_SMD_TP_1.5MM)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=LED P Pin=TP1-1
+Added Pin To Net: NetName=NetR24_2 Pin=TP2-1
+Added Pin To Net: NetName=NetR25_2 Pin=TP3-1
+Added Pin To Net: NetName=L1 Pin=TP4-1
+Added Pin To Net: NetName=L2 Pin=TP5-1
+Added Pin To Net: NetName=L3 Pin=TP6-1
+Added Pin To Net: NetName=L4 Pin=TP7-1
+Added Pin To Net: NetName=L5 Pin=TP8-1
+Added Pin To Net: NetName=L6 Pin=TP9-1
+Added Pin To Net: NetName=NetQ2_2 Pin=TP10-1
+Added Member To Class: ClassName=Master Member=Component TP1 LED_ANODE
+Added Member To Class: ClassName=Master Member=Component TP2 EN_IN
+Added Member To Class: ClassName=Master Member=Component TP3 PWM_IN
+Added Member To Class: ClassName=Master Member=Component TP4 L1
+Added Member To Class: ClassName=Master Member=Component TP5 L2
+Added Member To Class: ClassName=Master Member=Component TP6 L3
+Added Member To Class: ClassName=Master Member=Component TP7 L4
+Added Member To Class: ClassName=Master Member=Component TP8 L5
+Added Member To Class: ClassName=Master Member=Component TP9 L6
+Added Member To Class: ClassName=Master Member=Component TP10 C_FB

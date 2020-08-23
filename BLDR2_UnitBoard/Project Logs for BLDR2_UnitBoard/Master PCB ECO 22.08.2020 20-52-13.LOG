@@ -1,0 +1,8 @@
+Added Component: Designator=F1(FUSE_5x20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_1 Pin=F1-1
+Added Pin To Net: NetName=NetC6_1 Pin=F1-1
+Added Pin To Net: NetName=LED P Pin=F1-2
+Added Pin To Net: NetName=LED P Pin=F1-2
+Added Member To Class: ClassName=Master Member=Component F1 5x20mm 1A

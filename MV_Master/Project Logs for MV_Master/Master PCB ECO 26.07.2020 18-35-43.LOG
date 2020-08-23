@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC Pin=XP1-7
+Change Component Description : Designator=U2 Old Description=AVR AVRA® ATmega Microcontroller IC 8-Bit 16MHz 8KB _4K x 16_ FLASH 32-TQFP _7x7_ New Description=AVR AVRA® ATmega Microcontroller IC 8-Bit 16MHz 8KB _4K x 16_ FLASH 32-TQFP _7x7_
+Change Component Description : Designator=U1 Old Description=Стабилизатор напряжения +5В 1.5А, [D2-PAK] New Description=Стабилизатор напряжения +5В 1.5А, [D2-PAK]
+
+Added Pin To Net: NetName=NetR6_2 Pin=XP1-7

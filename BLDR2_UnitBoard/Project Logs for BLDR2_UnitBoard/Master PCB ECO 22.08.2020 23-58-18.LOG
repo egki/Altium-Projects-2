@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetR24_2 Pin=TP2-1
+Removed Pin From Net: NetName=NetR25_2 Pin=TP3-1
+Added Pin To Net: NetName=ENABLE IN Pin=TP2-1
+Added Pin To Net: NetName=PWM IN Pin=TP3-1

@@ -1,0 +1,3 @@
+Change Component Comment : Designator=F1 Old Comment=5x20mm 1A New Comment=2A
+Change component parameters: Designator = "F1"; Footprint = "FUSE_LITTEL_0154"; UniqueID = "\ZSQNSVVO"
+Change component parameters. Clean all parameters for all variants
